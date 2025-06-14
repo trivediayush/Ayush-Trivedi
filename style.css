@@ -187,7 +187,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/mybg.png)no-repeat;
+  background: url(images/bg.png)no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -198,7 +198,7 @@ section{
 }
 
 .main .content h2{
-  color: #ffdd00;
+  color: #000000;
   font-size: 2em;
   font-weight: 500;
 }
@@ -206,7 +206,7 @@ section{
 .main .content h2 span{
   font-size: 2.5em;
   font-weight: 600;
-  color: #00bfff;
+  color: #55ff00;
 }
 
 .animated-text{
@@ -216,7 +216,7 @@ section{
 }
 
 .animated-text h3{
-  color: #f51915;
+  color: #eef515;
   font-size: 2.5em;
   font-weight: 700;
   line-height: 70px;
@@ -247,7 +247,7 @@ section{
 
 .btn{
   color: #000000;
-  background: #60a0ff;
+  background: #00ff40;
   font-size: 1em;
   font-weight: 600;
   display: inline-block;
@@ -303,14 +303,14 @@ header.sticky{
 }
 
 header .brand{
-  color: #ffdd00;
+  color: #33ff00;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
 }
 header .brand span{
-  color: #ff0000;
+  color: #fffb00;
 }
 
 header .navigation{
